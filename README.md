@@ -96,7 +96,7 @@ Best Practices
 Priority Fixes
 🚀 Installation
 Clone the repository
-git clone https://github.com/YOUR_USERNAME/android-intelligence-agent.git
+git clone https://github.com/shiraz990/android-intelligence-agent.git
 
 cd android-intelligence-agent
 Install dependencies
